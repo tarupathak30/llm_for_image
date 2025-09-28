@@ -1,0 +1,11 @@
+# Core PyTorch (auto-selects CPU or GPU build depending on environment)
+torch
+torchvision
+torchaudio
+
+# CLIP + dependencies
+ftfy
+regex
+tqdm
+pillow
+git+https://github.com/openai/CLIP.git
